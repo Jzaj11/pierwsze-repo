@@ -11,4 +11,5 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 1. Tworzenie repozytorium
 2. Zapisywania zmian (commit)
 3. Pracy z GitHubem
+4. Pobieranie zmian (pull)
 
