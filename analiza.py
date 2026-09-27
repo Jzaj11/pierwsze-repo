@@ -8,3 +8,4 @@ print("średnia:", statistics.mean(wyniki))
 najwyzsza_ocena=(max(wyniki))
 
 print("Mediana:", statistics.median(wyniki))
+print("Odchylenie standardowe", statistics.stdev(wyniki))
