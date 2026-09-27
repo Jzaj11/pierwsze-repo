@@ -13,3 +13,4 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 3. Pracy z GitHubem
 4. Pobieranie zmian (pull)
 5. Ta zmiana zostanie cofnięta,
+
