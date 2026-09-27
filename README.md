@@ -12,5 +12,3 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 2. Zapisywania zmian (commit)
 3. Pracy z GitHubem
 4. Pobieranie zmian (pull)
-5. Ta zmiana zostanie cofnięta,
-
