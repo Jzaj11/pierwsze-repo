@@ -6,3 +6,5 @@ print("Liczba ocen:", len(wyniki))
 print("średnia:", statistics.mean(wyniki))
 
 najwyzsza_ocena=(max(wyniki))
+
+print("Mediana:", statistics.median(wyniki))
